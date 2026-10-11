@@ -1,0 +1,19 @@
+Library/
+Temp/
+Logs/
+Assets/_Recovery/
+Packages/com.ptc.vuforia.engine-11.1.3.tgz
+Packages/vuforia_package/
+UserSettings/
+ContentPackages/
+QCAR/
+Assets/MediaPipeUnity/
+Packages/mediapipe_unity/
+Assets/Samples/
+Assets/Samples 1/
+Assets/TextMesh Pro/
+Assets/URPDefaultResources/
+Assets/XR/
+Assets/XRI/
+Assets/MobileDependencyResolver/
+*.backup

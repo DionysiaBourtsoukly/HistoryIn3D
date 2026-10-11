@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 97656a2899dae2c4fa252b2869554de0
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - stadiumPrefab: {fileID: 8419036313361993656, guid: f91722d05ec5a9148bbec804d408d033, type: 3}
+  - spawnedStadium: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
