@@ -17,6 +17,6 @@ MediaPipe plugin of Unity was used for to recognize gestures
 
 INSTALLATION
 1. clone repository
-2. Download vuforia and mediapipe unity plugins and add them in the assets folder (https://developer.vuforia.com/downloads/sdk, https://github.com/homuler/MediaPipeUnityPlugin/releases/download/v0.16.3/MediaPipeUnityPlugin-all.zip)
+2. Download vuforia and mediapipe unity plugins and add them in the packages folder (https://developer.vuforia.com/downloads/sdk, https://github.com/homuler/MediaPipeUnityPlugin/releases/download/v0.16.3/MediaPipeUnityPlugin-all.zip)
 3. Open in Unity Hub
 4. Let Unity resolve Packages and Compile Scripts
